@@ -1,8 +1,8 @@
 {
-	"name":				"",
-	"short_name":		"",
-	"description":		"",
-	"start_url":		"/",
+	"name":				"ただひょーじ",
+	"short_name":		"ただひょーじ",
+	"description":		"blogger84039のよって作られた、ボックスに入力された内容をただただ表示するだけのサイト。",
+	"start_url":		"/tadahyo-ji/",
 	"display":			"standalone",
 	"orientation":		"any",
 	"background_color":	"#fff",
